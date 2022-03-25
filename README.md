@@ -1,6 +1,6 @@
 # API-Fastify
 Small api using fastify
 --
-- npm
+- npm i
 
 - npm run dev
